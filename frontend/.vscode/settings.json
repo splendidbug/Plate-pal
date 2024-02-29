@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "**/*.g.dart": true,
+    "**/*.freezed.dart": true,
+    "**/di.config.dart": true,
+    ".flutter-plugins": true,
+    ".flutter-plugins-dependencies": true,
+    ".metadata": true,
+    ".packages": true,
+  },
+  "task.allowAutomaticTasks": "on",
+  "cSpell.words": [
+    "prefrences"
+  ]
+}

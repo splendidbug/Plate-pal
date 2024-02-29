@@ -1,0 +1,21 @@
+version: "3"
+services:
+  platepal:
+    build:
+      context: .
+    ports:
+      - 8080:80
+    volumes:
+      - ./src:/app
+    restart: on-failure
+    environment:
+      - MAX_WORKERS
+      - WORKERS_PER_CORE
+      - MINDEE_API_KEY
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    networks:
+      - platepal
+
+networks:
+  platepal:
+    name: platepal_network

@@ -1,0 +1,133 @@
+,ingredients,refrigerated,frozen
+0,"Juice in cartons, fruit drinks, punch",21.0,300.0
+1,Butter,60.0,225.0
+2,Buttermilk,10.5,90.0
+3,"Cheese, processed slices",45.0,0.0
+4,"Cheese, soft (such as Brie, Bel Paese)",7.0,180.0
+5,"Cottage cheese, ricotta",7.0,0.0
+6,Cream cheese,14.0,0.0
+7,"Cream, whipping, ultrapasteurized Whipped, sweetened",30.0,0.0
+8,"Aerosol can, real whipped cream Aerosol can, nondairy topping",1.0,45.0
+9,"Cream, half-and-half",24.5,0.0
+10,"Dips, sour cream based",90.0,0.0
+11,"Eggnog, commercial",3.5,120.0
+12,Kefir (fermented milk),14.0,0.0
+13,Margarine,3.0,180.0
+14,"Milk, plain or flavored",4.0,0.0
+15,Pudding,7.0,360.0
+16,Sour cream,180.0,90.0
+17,Yogurt,7.0,0.0
+18,"Tube cans of biscuits, rolls, pizza dough, etc.",2.0,0.0
+19,Ready-to-bake pie crust,14.0,45.0
+20,Cookie dough,10.5,0.0
+21,"PASTA, fresh",10.0,60.0
+22,PESTO or SALSA,10.0,60.0
+23,"Soy or rice beverage, refrigerated",10.0,60.0
+24,Tofu,1.5,45.0
+25,Miso,10.0,0.0
+26,"Lean fish (cod, flounder, haddock, halibut, sole, etc.)",8.5,150.0
+27,"Lean fish (pollock, ocean perch, rockfish, sea trout)",7.0,0.0
+28,"Fatty fish (bluefish, mackerel, mullet, salmon, tuna, etc.)",90.0,210.0
+29,"Caviar, fresh, in jar",1.5,120.0
+30,"Cooked fish, all",1.5,75.0
+31,Surimi seafood,1.5,0.0
+32,"Shrimp, scallops, crayfish, squid",17.5,45.0
+33,"Shucked clams, mussels and oysters",3.5,270.0
+34,"Live clams, mussels, crab and oysters",3.5,135.0
+35,"Cooked shellfish, all",1.5,105.0
+36,Herring,1.5,315.0
+37,"Beef, lamb, pork or veal chops, steaks,roasts",1.5,75.0
+38,Ground meat,3.5,90.0
+39,"Variety meats (liver, tongue, chitterlings, etc.)",3.5,60.0
+40,Cooked meats (after home cooking),4.0,240.0
+41,Bacon,1.5,105.0
+42,"Corned beef, in pouch with pickling juices",1.5,105.0
+43,"Duckling or goose, whole",3.5,75.0
+44,Giblets,7.0,30.0
+45,"Chicken nuggets, patties",6.0,30.0
+46,Cooked poultry dishes,1.5,180.0
+47,Fried chicken,1.5,105.0
+48,Ground turkey or chicken,1.5,60.0
+49,Pieces covered with broth or gravy,3.5,150.0
+50,Rotisserie chicken,3.5,120.0
+51,Apples,1.5,105.0
+52,Apricots,1.5,180.0
+53,Avocados,3.5,120.0
+54,Bananas,21.0,240.0
+55,"Berries, cherries",2.5,0.0
+56,Citrus Fruit,3.5,0.0
+57,"Coconuts, fresh",2.0,30.0
+58,Grapes,1.5,120.0
+59,Kiwi Fruit,10.5,0.0
+60,Melons,17.5,180.0
+61,"Papaya, mango",7.0,30.0
+62,"Peaches, nectarines",3.5,0.0
+63,"Pears, Plums",3.5,30.0
+64,"Artichokes, whole",7.0,0.0
+65,Asparagus,3.5,30.0
+66,"Beans, green or wax",3.5,60.0
+67,Beets,10.5,0.0
+68,Bok choy,3.5,0.0
+69,"Broccoli, raab, rapini",3.5,240.0
+70,Brussels sprouts,8.5,240.0
+71,Cauliflower,2.5,210.0
+72,Cabbage,4.0,330.0
+73,"Carrots, parsnips",4.0,330.0
+74,Celery,4.0,330.0
+75,Corn on the cob,10.5,330.0
+76,Cucumbers,21.0,330.0
+77,Eggplant,10.5,330.0
+78,Garlic,1.5,330.0
+79,Ginger Root,4.5,240.0
+80,Greens,3.5,0.0
+81,"Herbs, fresh",10.5,210.0
+82,Leeks,10.5,30.0
+83,"Lettuce, iceberg",1.5,30.0
+84,"Lettuce, leaf",8.5,330.0
+85,Mushrooms,10.5,45.0
+86,Okra,10.5,330.0
+87,"Onions, dry Spring or green",5.0,0.0
+88,"Parsley, cilantro",2.5,0.0
+89,"Peppers, bell or chile",2.5,330.0
+90,Potatoes,60.0,330.0
+91,Radishes,10.5,330.0
+92,Rutabagas,7.0,330.0
+93,Spinach,4.5,45.0
+94,"Squash, summer winter",10.5,210.0
+95,Turnips,12.0,330.0
+96,Tomatoes,14.0,270.0
+97,Bagels,1.5,330.0
+98,"Bread Dough, commercial",4.5,330.0
+99,"Burritos, sandwiches",14.0,330.0
+100,Egg substitutes,14.0,270.0
+101,"Fish, breaded",2.5,60.0
+102,"Fish, raw",10.5,60.0
+103,"Fruit such as berries, melons",5.5,10.0
+104,Guacamole,3.5,60.0
+105,Ice cream,10.0,360.0
+106,Juice concentrates,0.0,135.0
+107,Lobster tails,1.5,180.0
+108,"Pancakes, Waffles",4.5,150.0
+109,"Sausages, uncooked precooked",3.5,105.0
+110,"Sherbet, sorbet",8.5,90.0
+111,"Shrimp, shellfish",2.0,270.0
+112,Soy crumbles and hotdogs,3.5,90.0
+113,Soy meat substitutes,1.5,60.0
+114,Tempeh,7.0,45.0
+115,"Topping, whipped",1.5,45.0
+116,"TV Dinners, entrees, breakfast",3.5,90.0
+117,Vegetables,3.5,360.0
+118,"Main dishes or meals, hot or refrigerated",10.5,270.0
+119,Meats covered with gravy or broth,14.0,450.0
+120,Commercial brand vacuum packed dinners with USDA seal,0.0,360.0
+121,"Chicken, rotisserie or fried Luncheon meats, store-sliced",3.5,180.0
+122,Pate,3.5,90.0
+123,"Cheese, store-sliced, hard cheese such as cheddar or swiss",1.5,240.0
+124,"Cheese, soft (such as brie, bel paese, goat cheese, fresh mozzarella)",14.0,75.0
+125,"Salads containing meat, fish, poultry or eggs",3.5,180.0
+126,"Salads, vegetable",4.0,0.0
+127,"Side dishes such as cooked vegetables, rice or potatoes",1.5,120.0
+128,Olives,24.5,45.0
+129,Pudding,7.0,45.0
+130,"Fruit, cut",3.5,180.0
+131,Cheesecake,4.0,180.0

@@ -1,0 +1,8 @@
+gunicorn
+uvicorn
+fastapi
+aiohttp
+mindee
+openai
+langchain
+rapidfuzz
